@@ -12,15 +12,16 @@ The following is a list of bots to which this privacy policy applies.
 * **S K Y N E T**#4835 (658585722206289930)
 * **BiOhaZarD**#8085 (657630423219699713)
 * **Boom Box 🎧**#6990 (691125478970490932)
-* **Defuzer Official**#8140 (679624002045739129)
 * **Nox**#7693 (634348459876417556)
-* **UcX Ξ Hot Chick**#9602 (694441492974141441)
 * **User Count**#1576 (690700375900160090)
 * **Glock Gaming [ Helpline ]**#9955 (662683494484410389)
 * **Serious NerDs**#4666 (669646474975379480)
 * **BlackClue Official**#8192 (680463482357153794)
-* **BossBotV1**#8186 (674991734987685919)
-* **Saeva.io**#3195 (680464740450959381)
+* **Ujjwal Gamer**#9214 (707527253323677747)
+* **sc0ut**9997 (707527253323677747)
+* **Simply Xynox**#0023 (695440585577725993)
+* **Ellie Cee**#3078 (705442656569917452)
+
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
 * **xynox.dev**
