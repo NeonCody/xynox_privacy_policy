@@ -14,7 +14,7 @@ The following is a list of bots to which this privacy policy applies.
 * **Boom Box 🎧**#6990 (691125478970490932)
 * **Nox**#7693 (634348459876417556)
 * **Ujjwal Gamer**#9214 (707527253323677747)
-* **sc0ut**9997 (707527253323677747)
+* **sc0ut**#9997 (707527253323677747)
 * **Simply Xynox**#0023 (695440585577725993)
 * **Ellie Cee**#3078 (705442656569917452)
 
