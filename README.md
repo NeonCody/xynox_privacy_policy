@@ -1,3 +1,8 @@
+##XynoxTheDev
+
+[![](https://discordapp.com/api/guilds/594392503394893824/embed.png?style=banner2)](https://discord.gg/AxXkddX)
+
+
 # Privacy Policy
 
 This document entails the privacy policy and agreement that you accept when adding any of Xynox's or his developer team's bots to a server, or as a member of such a server. This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
