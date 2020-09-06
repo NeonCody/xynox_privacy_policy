@@ -26,7 +26,7 @@ The following is a list of bots to which this privacy policy applies.
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
 * **xynox.dev**
-* **discord.website**
+* **arindamz.website**
 
 
 
