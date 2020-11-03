@@ -1,4 +1,5 @@
-[![](https://discordapp.com/api/guilds/594392503394893824/embed.png?style=banner2)](https://discord.gg/ZzbZpdw)
+
+[!](https://discordapp.com/api/guilds/594392503394893824/embed.png?style=banner2)](https://discord.gg/ZzbZpdw)
 
 
 # Privacy Policy
