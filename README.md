@@ -13,7 +13,11 @@ The following is a list of bots to which this privacy policy applies.
 * **Apollo**#7591 (487142757740052481)
 * **Cyraxx**#6457 (546388840235925524)
 * **Dude Perfect**#7587 (759763855680602122)
-* **sc0ut**#9997 (707527253323677747)
+* **OrangeBot**#3338 (585715599011741696)
+* **Akairo**#6812 (754617681243537408)
+* **Qrivxn**#9212 (486232921078890501)
+* **Bolt**#5971 (537519200756039680)
+
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
