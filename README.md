@@ -12,16 +12,8 @@ This document entails the privacy policy and agreement that you accept when addi
 The following is a list of bots to which this privacy policy applies.
 * **Apollo**#7591 (487142757740052481)
 * **Cyraxx**#6457 (546388840235925524)
-* **DevBOT**#5150 (690914611901497425)
-* **Dude Perfect**#7587 (658668385877491774)
-* **S K Y N E T**#4835 (658585722206289930)
-* **BiOhaZarD**#8085 (657630423219699713)
-* **Boom Box 🎧**#6990 (691125478970490932)
-* **Nox**#7693 (634348459876417556)
-* **Ujjwal Gamer**#9214 (707527253323677747)
+* **Dude Perfect**#7587 (759763855680602122)
 * **sc0ut**#9997 (707527253323677747)
-* **Simply Xynox**#0023 (695440585577725993)
-* **Ellie Cee**#3078 (705442656569917452)
 
 
 This privacy policy also applies to all of these sites and subdomains of these sites:
