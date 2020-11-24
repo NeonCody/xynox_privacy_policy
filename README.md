@@ -58,8 +58,8 @@ All stored data is kept on protected servers. While storage methods vary, most d
 
 ### Data Deletion Request
 Users can contact me via:
-**Gmails** - workforxynox@gmail.com
-**Support Server** - [Click Here](https://discord.gg/ZzbZpdw)
+- **Gmails** - workforxynox@gmail.com
+- **Support Server** - [Click Here](https://discord.gg/ZzbZpdw)
 
 ### Feedback
 Feedback on any and all provided bots and services is appreciated. When you submit comments, suggestions, bug reports, and any other forms of feedback, you forego any rights to the content, title, or intent of the provided feedback. Additionally, the feedback may be utilized in any way.
